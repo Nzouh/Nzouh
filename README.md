@@ -2,7 +2,11 @@
 
 # Hi, I'm Nabil 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42f592&center=true&vCenter=true&width=500&lines=Full-stack+Developer;AI+%26+Deep+Learning;Systems+%26+Hardware;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42f592&center=true&vCenter=true&width=500&lines=Full-stack+Developer;AI+%26+Deep+Learning;Open+Source+Contributor)](https://git.io/typing-svg)
+
+<p align="center">
+  **🎓 uOttawa Class of 2028**
+</p>
 
 ---
 
@@ -21,7 +25,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**Champanzee**](https://github.com/rbous/Champanzee) | Real-time multiplayer survey platform — 🏆 **2nd @ uOttaHack 8**. Sub-200ms sync, SurveyMonkey integration, AI question generation. | `Go` `Next.js` `Redis` `WebSockets` |
-| [**EdgeAI**](https://github.com/Nzouh/EdgeAI) | High-performance AI security auditor — Real-time NASA turbofan sensor processing for failures. | `C++` `Python` `Docker` `ONNX` |
+| [**EdgeAI**](https://github.com/Nzouh/EdgeAI) | High-performance AI security auditor — Real-time NASA turbofan sensor processing for failures. | `C++` `Python` `Docker` `CUDA` |
 | [**DeepLearningMaestro**](https://github.com/Nzouh/DeepLearningMaestro) | Deep learning from first principles — Neural network kernels, matrix calculus, and hardware-optimal implementations. | `CUDA` `C++` `PyTorch` |
 | [**GithubGPT**](https://github.com/Nzouh/GithubGPT) | AI-powered PR tool and semantic repository search — Automating code reviews with LLMs. | `Python` `OpenAI` `Git` |
 | [**Micrograd**](https://github.com/Nzouh/Micrograd) | Light-weight autograd engine — Building a neural network backprop engine from the ground up. | `Python` `Numpy` |
@@ -49,10 +53,10 @@
 
 <!-- Contact or Footer -->
 <p align="center">
-  <a href="https://linkedin.com/in/nzouh">
+  <a href="https://www.linkedin.com/in/nabilzouhari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contact@nzouh.com">
+  <a href="mailto:nzouhari15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
