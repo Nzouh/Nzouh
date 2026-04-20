@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42f592&center=true&vCenter=true&width=500&lines=Full-stack+Developer;AI+%26+Deep+Learning;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
-  **🎓 uOttawa Class of 2028**
+  <strong>🎓 uOttawa Class of 2028</strong>
 </p>
 
 ---
