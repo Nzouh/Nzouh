@@ -32,7 +32,6 @@
 | [**bookwebsite**](https://github.com/Nzouh/bookwebsite) | Full-featured book discovery and management platform — user roles, search, and cataloging. | `Python` `Django` `HTML/CSS` |
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
