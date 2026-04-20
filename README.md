@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nzouh&show_icons=true&theme=tokyonight&hide_border=true&title_color=42f592&icon_color=42f592&exclude_repo=Global-Energy-Analysis" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nzouh&show_icons=true&theme=tokyonight&hide_border=true&title_color=42f592&icon_color=42f592&exclude_repo=Global-Energy-Analysis,CaliforniaHousing,Micrograd" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nzouh&theme=tokyonight&hide_border=true&stroke=42f592&ring=42f592&fire=42f592&currStreakLabel=42f592" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzouh&layout=compact&theme=tokyonight&hide_border=true&title_color=42f592&exclude_repo=Global-Energy-Analysis" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzouh&layout=compact&theme=tokyonight&hide_border=true&title_color=42f592&exclude_repo=Global-Energy-Analysis,CaliforniaHousing,Micrograd" height="170" />
 </p>
 
 ---
