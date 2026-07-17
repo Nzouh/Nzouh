@@ -1,0 +1,6 @@
+[
+  {"id":"long-task-resume","interrupted_at":"checkpoint","snapshot_id":"snap-0192","vm_reachable":true,"disk_hash_before":"a91c","disk_hash_after":"a91c","agent_pid_before":4412,"agent_pid_after":5830,"agent_status":"running","checkpoint_age_s":28,"recovery_time_s":19},
+  {"id":"volume-attach-cut","interrupted_at":"attach_volume","snapshot_id":"snap-0187","vm_reachable":true,"disk_hash_before":"b220","disk_hash_after":"f118","agent_pid_before":3901,"agent_pid_after":0,"agent_status":"stopped","checkpoint_age_s":54,"recovery_time_s":41},
+  {"id":"endpoint-loss","interrupted_at":"allocate_vm","snapshot_id":"snap-0181","vm_reachable":false,"disk_hash_before":"c771","disk_hash_after":"c771","agent_pid_before":0,"agent_pid_after":0,"agent_status":"unknown","checkpoint_age_s":14,"recovery_time_s":0},
+  {"id":"stale-checkpoint","interrupted_at":"resume","snapshot_id":"snap-0164","vm_reachable":true,"disk_hash_before":"d884","disk_hash_after":"d884","agent_pid_before":7100,"agent_pid_after":8322,"agent_status":"running","checkpoint_age_s":412,"recovery_time_s":67}
+]
